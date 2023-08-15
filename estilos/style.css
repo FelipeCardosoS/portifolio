@@ -96,7 +96,7 @@ body{
     font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
-    padding: 21.5px 0;
+    padding: 1.34375rem 0;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
